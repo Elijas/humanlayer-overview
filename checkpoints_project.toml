@@ -1,0 +1,4 @@
+# Agent Checkpoints Framework - Project Root Marker
+#
+# This file is intentionally empty and serves as a marker to identify
+# the project root directory for rooted path expansion (::PROJECT).

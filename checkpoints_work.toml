@@ -1,0 +1,4 @@
+# Agent Checkpoints Framework - Work Root Marker
+#
+# This file is intentionally empty and serves as a marker to identify
+# the work root directory for rooted path expansion (::WORK).
